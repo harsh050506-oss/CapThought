@@ -1,0 +1,16 @@
+{
+  "name": "capthought-vanilla",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A minimalist journaling platform built with HTML, CSS, and JavaScript.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
+  },
+  "dependencies": {}
+}
